@@ -1,22 +1,30 @@
 {
   "name": "elise-in-the-clouds-witchy-things",
   "title": "Élise in the Clouds - Witchy Things Music Pack",
-  "description": "<p>A free Dark Fantasy Music Pack featuring witchy ambiences for your games. Support me on <a href='https://www.patreon.com/eliseintheclouds' title='Patreon'>Patreon</a> to help me keep writing!</p>",
+  "description": "<p>A free, introductory Foundry VTT music pack including several horror and dark fantasy ambient tracks. Composed and arranged by Élise in the Clouds. Support me on Patreon to gain access to my other Patreon-exclusive music modules: https://www.patreon.com/eliseintheclouds</p>",
   "author": "Élise in the Clouds",
-  "authors": [],
-  "url": "https://github.com/eliseintheclouds/witchy-things",
+  "authors": [
+    {
+      "name": "Élise in the Clouds"
+    }
+	],
+  "url": "https://github.com/eliseintheclouds/witchy-things/",
   "flags": {},
-  "version": "1.7.0",
+  "version": "1.8.1",
   "minimumCoreVersion": "0.8.8",
   "compatibleCoreVersion": "10",
-  "scripts": ["scripts/tabletop-rpg-music.js"],
+  "compatibility": {
+    "minimum": "0.8.8",
+    "verified": "10"
+  },
+  "scripts": [],
   "esmodules": [],
   "styles": [],
   "languages": [],
   "packs": [
     {
       "name": "witchy-things",
-      "label": "Witchy Things",
+      "label": "Élise in the Clouds - Witchy Things Music Pack",
       "path": "/packs/witchy-things.db",
       "entity": "Playlist",
       "private": false
@@ -25,8 +33,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/Tabletop-RPG-Music/tabletop-rpg-music/master/module.json",
-  "download": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/archive/master.zip",
+  "manifest": "https://raw.githubusercontent.com/eliseintheclouds/witchy-things/master/module.json",
+  "download": "https://github.com/eliseintheclouds/witchy-things/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false
 }
