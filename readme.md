@@ -1,4 +1,5 @@
-# Élise in the Clouds: Witchy Things FREE INTRODUCTORY MUSIC PACK
+# Élise in the Clouds: Witchy Things 
+  ## FREE INTRODUCTORY MUSIC PACK
 
 You can enjoy this free, introductory Foundry VTT music pack that includes several horror and dark fantasy ambient tracks. Composed and arranged by Élise in the Clouds. Support me on Patreon to gain access to my other Patreon-exclusive music modules: https://www.patreon.com/eliseintheclouds
 
