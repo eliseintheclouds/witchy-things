@@ -1,0 +1,29 @@
+{
+  "title": "Élise in the Clouds - Witchy Things Music Pack",
+  "description": "<p>A free, introductory Foundry VTT music pack including several horror and dark fantasy ambient tracks. Composed and arranged by Élise in the Clouds. Support me on Patreon to gain access to my other Patreon-exclusive music modules: https://www.patreon.com/eliseintheclouds</p>",
+  "authors": [
+    {
+      "name": "Élise in the Clouds",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/eliseintheclouds/witchy-things/",
+  "version": "1.8.1",
+  "compatibility": {
+    "minimum": "0.8.8",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "witchy-things",
+      "label": "Élise in the Clouds - Witchy Things Music Pack",
+      "path": "/packs/elise-in-the-clouds-witchy-things.db",
+      "private": false,
+      "type": "Playlist",
+      "flags": {}
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/eliseintheclouds/witchy-things/master/module.json",
+  "download": "https://github.com/eliseintheclouds/witchy-things/archive/refs/heads/main.zip",
+  "id": "elise-in-the-clouds-witchy-things"
+}
