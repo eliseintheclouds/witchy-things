@@ -16,8 +16,8 @@
   "packs": [
     {
       "name": "witchy-things",
-      "label": "Élise in the Clouds - Witchy Things Music Pack",
-      "path": "/packs/elise-in-the-clouds-witchy-things.db",
+      "label": "Élise in the Clouds - Witchy Things",
+      "path": "/packs/elise-in-the-clouds-witchy-things.json",
       "private": false,
       "type": "Playlist",
       "flags": {}
