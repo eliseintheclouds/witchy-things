@@ -11,16 +11,19 @@
   "version": "18.06.23",
   "compatibility": {
     "minimum": "0.8.8",
-    "verified": "11"
+    "verified": "10"
   },
   "packs": [
     {
       "name": "witchy-things",
       "label": "Élise in the Clouds - Witchy Things",
       "path": "/packs/elise-in-the-clouds-witchy-things.db",
-      "private": false,
       "type": "Playlist",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "manifest": "https://raw.githubusercontent.com/eliseintheclouds/witchy-things/master/module.json",
