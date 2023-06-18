@@ -17,7 +17,7 @@
     {
       "name": "witchy-things",
       "label": "Élise in the Clouds - Witchy Things",
-      "path": "/packs/elise-in-the-clouds-witchy-things.db",
+      "path": "\packs\elise-in-the-clouds-witchy-things\000009.ldb",
       "private": false,
       "type": "Playlist",
       "flags": {}
