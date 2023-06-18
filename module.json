@@ -8,10 +8,10 @@
     }
   ],
   "url": "https://github.com/eliseintheclouds/witchy-things/",
-  "version": "1.8.1",
+  "version": "18.06.23",
   "compatibility": {
     "minimum": "0.8.8",
-    "verified": "10"
+    "verified": "11"
   },
   "packs": [
     {
